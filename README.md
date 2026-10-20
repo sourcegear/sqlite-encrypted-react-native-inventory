@@ -21,8 +21,10 @@ The sample demonstrates:
 
 - Node.js 18 or later
 - Android Studio and an emulator/device, or Xcode and an iOS simulator/device
-- a SQLite.Encrypted activation key. Request an evaluation key at
-  <http://sqlite.sourcegear.com/#evaluation>.
+- a SQLite.Encrypted activation key.
+
+Free fully-featured demo keys are available from
+[sqlite.sourcegear.com](https://sqlite.sourcegear.com/#evaluation).
 
 The activation key must cover the target platform and the SQLite minor version
 bundled in the package. Pass the activation hex string without the `see-`
